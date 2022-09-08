@@ -10,6 +10,10 @@ In order to show NASA our web app, we want to go one step further and polish it.
 - Bootstrap
 - HTML
 
+### Resources: 
+
+- [Mars Hemisphere Website](https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars) 
+- [CSS Bootstrap](https://getbootstrap.com/docs/3.3/css/#less)
 
 ## Deliverable 1: Scrape Full-Resolution Mars Hemisphere Images and Titles
 
@@ -30,3 +34,5 @@ Scraping is completed and Robin's web app contains all the information from this
 ![Screen Shot 2022-09-07 at 8 49 21 PM](https://user-images.githubusercontent.com/106577074/189030057-92ab5cdb-bb05-4098-b824-8019e1899738.png)
 
 ![Screen Shot 2022-09-07 at 8 49 29 PM](https://user-images.githubusercontent.com/106577074/189030077-74d0f139-0caa-46b6-804e-8333d5f1c11f.png)
+
+
